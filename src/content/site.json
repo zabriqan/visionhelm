@@ -1,0 +1,357 @@
+{
+  "brand": {
+    "name": "VisionHelm",
+    "tagline": "Your Vision. Our Direction.",
+    "email": "connect.visionhelm@gmail.com",
+    "instagram": "",
+    "linkedin": ""
+  },
+  "theme": {
+    "obsidian": "#171B1A",
+    "gold": "#C6A77A",
+    "ivory": "#F3F0E9",
+    "sage": "#343C38",
+    "stone": "#686F6A"
+  },
+  "hero": {
+    "eyebrow": "INDEPENDENT CREATIVE & TECHNOLOGY STUDIO",
+    "heading": "We turn ambitious visions into",
+    "highlight": "powerful digital experiences.",
+    "description": "From brand identity and strategy to custom technology and digital growth, we build connected experiences that move ambitious businesses forward.",
+    "image": "/images/architecture.jpg",
+    "imageAlt": "Contemporary concrete architecture overlooking a mountain valley at sunset",
+    "primaryCta": "Start Your Project",
+    "secondaryCta": "Explore Our Work"
+  },
+  "intro": {
+    "eyebrow": "THE VISIONHELM PHILOSOPHY",
+    "heading": "More than a website. A digital ecosystem.",
+    "description": "Every ambitious business begins with a vision. Our role is to give that vision clarity, character, and the digital foundation it needs to grow.",
+    "detail": "We bring strategy, design, and technology together. One connected approach, shaped around your business and built to move with it."
+  },
+  "capabilities": {
+    "heading": "Everything your vision needs to move forward.",
+    "items": [
+      {
+        "title": "Strategy",
+        "description": "Clarity before creativity. A considered direction for your brand and digital future.",
+        "slug": "brand-strategy-identity",
+        "tags": "Positioning · Research · Digital planning"
+      },
+      {
+        "title": "Brand & Design",
+        "description": "Distinctive identities and thoughtful experiences that make your business feel like you.",
+        "slug": "brand-strategy-identity",
+        "tags": "Identity · Creative direction · UI/UX"
+      },
+      {
+        "title": "Technology",
+        "description": "Purpose-built websites and digital systems. Beautiful on the surface. Reliable underneath.",
+        "slug": "web-design-development",
+        "tags": "Websites · Products · Integrations"
+      },
+      {
+        "title": "Growth",
+        "description": "The support, insight, and continuous improvement to keep your business moving.",
+        "slug": "digital-growth-support",
+        "tags": "SEO · Analytics · Ongoing support"
+      }
+    ]
+  },
+  "work": {
+    "heading": "Built for ambitious businesses.",
+    "description": "Selected projects and studio explorations. Different ambitions, the same considered approach."
+  },
+  "process": {
+    "heading": "From vision to real impact.",
+    "description": "A clear path, a collaborative process, and the right expertise at every stage.",
+    "steps": [
+      {
+        "title": "Discover",
+        "description": "We listen first. Understanding your business, your audience, and where you want to go.",
+        "detail": "Stakeholder conversations, audience research, a review of your existing presence, and a shared project brief."
+      },
+      {
+        "title": "Define & Design",
+        "description": "We find the direction. Aligning strategy, experience, and a distinctive creative point of view.",
+        "detail": "Positioning, information architecture, visual exploration, and interactive design. You help shape the decisions."
+      },
+      {
+        "title": "Build & Launch",
+        "description": "We bring it to life. Developing, refining, and testing every detail before it meets the world.",
+        "detail": "Iterative development, content integration, accessibility and performance checks, and a considered launch plan."
+      },
+      {
+        "title": "Evolve & Grow",
+        "description": "We stay involved. Supporting your next chapter through insight and continuous improvement.",
+        "detail": "Maintenance, analytics reviews, useful updates, and a roadmap that follows the needs of your business."
+      }
+    ]
+  },
+  "industries": {
+    "heading": "Built around your business, not a template.",
+    "description": "Every industry has its own rhythm. We shape the experience around the people you serve and the way your business works.",
+    "items": [
+      "Hospitality & Travel",
+      "Restaurants & Lifestyle",
+      "Professional Services",
+      "Startups & Growing Brands"
+    ]
+  },
+  "partnership": {
+    "heading": "Your ambition deserves more than ordinary execution.",
+    "description": "We approach every engagement as a partnership, combining creative thinking and technical precision to build something meaningful, useful, and built to last."
+  },
+  "thinking": {
+    "heading": "The thinking behind the experience.",
+    "description": "Some engagements stay private. We can still share the principles that shape how we approach complex digital work.",
+    "items": [
+      {
+        "title": "Clarity through structure",
+        "description": "Map the audience, organize the information, and make the next step clear. Complex content should feel simple to navigate."
+      },
+      {
+        "title": "Complexity, made manageable",
+        "description": "Administrative tools need clear roles, sensible permissions, and well-defined workflows. We approach that complexity as a design problem as well as a technical one."
+      },
+      {
+        "title": "A foundation to evolve",
+        "description": "Separate content from presentation, build reusable systems, and give teams practical control. The handover is part of the design."
+      }
+    ]
+  },
+  "closing": {
+    "heading": "Let’s build what’s next.",
+    "description": "Tell us what you’re working toward. We’ll help you find the right direction.",
+    "cta": "Start a Conversation"
+  },
+  "about": {
+    "heading": "A partner in your journey.",
+    "intro": "VisionHelm exists to bridge the gap between ambitious ideas and exceptional digital execution.",
+    "image": "/images/architecture.jpg",
+    "imageAlt": "Contemporary architecture overlooking a mountain valley at sunset",
+    "beliefHeading": "Understanding before execution. Purpose in every detail.",
+    "belief": "Your digital presence should feel like an extension of your business: aligned with your identity, your objectives, and the people you serve. That starts with understanding, and continues through every creative and technical decision.",
+    "mission": "To help ambitious businesses translate their vision into distinctive brands, meaningful digital experiences, and scalable technology.",
+    "vision": "To become a trusted creative and technology partner for businesses building what comes next.",
+    "studio": "A studio built around a shared idea: thoughtful strategy, purposeful creativity, and reliable technology belong together. We bring these disciplines into one collaborative partnership.",
+    "principles": [
+      "Clarity over complexity",
+      "Creativity with purpose",
+      "Precision in execution",
+      "Partnership over transactions",
+      "Continuous improvement"
+    ],
+    "team": []
+  },
+  "services": [
+    {
+      "slug": "brand-strategy-identity",
+      "title": "Brand Strategy & Identity",
+      "shortTitle": "Brand & Identity",
+      "summary": "A clear point of view. An identity that makes it unmistakably yours.",
+      "problem": "When your business grows but your brand stands still, the gap becomes visible. We help clarify what you stand for and translate it into a consistent identity.",
+      "deliverables": [
+        "Brand positioning & audience research",
+        "Visual identity & logo systems",
+        "Brand guidelines",
+        "Creative direction",
+        "Marketing collateral"
+      ],
+      "faqs": [
+        {
+          "question": "Can you work with our existing identity?",
+          "answer": "Yes. We start by understanding what is already working, then agree whether a refinement or a new direction is right for your business."
+        },
+        {
+          "question": "What will we receive?",
+          "answer": "An agreed set of brand assets, working files, and practical guidelines. The scope is confirmed together before the engagement begins."
+        }
+      ]
+    },
+    {
+      "slug": "web-design-development",
+      "title": "Web Design & Development",
+      "shortTitle": "Websites & Experiences",
+      "summary": "Digital experiences with character, clarity, and a strong technical foundation.",
+      "problem": "A website needs to do more than look good. We connect your brand story with the needs of your audience, building an experience that is useful, accessible, and easy to maintain.",
+      "deliverables": [
+        "Experience strategy & UI/UX design",
+        "Custom responsive websites",
+        "Next.js development",
+        "Content management systems",
+        "Accessibility & performance",
+        "Technical SEO foundations"
+      ],
+      "faqs": [
+        {
+          "question": "Will we be able to update our website?",
+          "answer": "Yes. We agree on the editing experience during discovery and provide guidance so your team can manage day-to-day content with confidence."
+        },
+        {
+          "question": "Do you support existing websites?",
+          "answer": "We can review your existing site and identify whether targeted improvements or a rebuild will better support your objectives."
+        }
+      ]
+    },
+    {
+      "slug": "digital-products-integrations",
+      "title": "Digital Products & Integrations",
+      "shortTitle": "Products & Integrations",
+      "summary": "Technology that connects the experience with the way your business works.",
+      "problem": "Disconnected tools create friction for customers and teams. We design practical digital systems that bring your workflows together and make everyday tasks easier.",
+      "deliverables": [
+        "Custom web applications",
+        "Customer portals",
+        "Administrative tools & permissions",
+        "Complex business workflows",
+        "Booking & payment integrations",
+        "Automation & API integrations"
+      ],
+      "faqs": [
+        {
+          "question": "Can you connect the tools we already use?",
+          "answer": "We assess your existing systems and available APIs, then recommend an approach based on compatibility, security, and the workflow you need."
+        },
+        {
+          "question": "How do you scope a digital product?",
+          "answer": "We start with your users and the task they need to complete. Together, we define a focused first release and a realistic roadmap."
+        }
+      ]
+    },
+    {
+      "slug": "digital-growth-support",
+      "title": "Digital Growth & Support",
+      "shortTitle": "Growth & Support",
+      "summary": "A considered approach to everything that comes after launch.",
+      "problem": "Your business keeps evolving. Your digital presence should too. We provide the technical support, useful insights, and ongoing improvements to help it stay relevant.",
+      "deliverables": [
+        "SEO foundations",
+        "Website maintenance",
+        "Content updates",
+        "Analytics & reporting",
+        "Conversion improvements",
+        "Social media creative support"
+      ],
+      "faqs": [
+        {
+          "question": "Do you offer ongoing partnerships?",
+          "answer": "Yes. We shape support around your priorities, with an agreed scope, communication rhythm, and clear expectations."
+        },
+        {
+          "question": "Do you guarantee rankings or revenue?",
+          "answer": "No. We focus on sound foundations, measurable activity, and informed improvements. Business results depend on many factors beyond a website."
+        }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "slug": "masabgroup",
+      "title": "Masabgroup",
+      "industry": "Travel & Hospitality",
+      "year": "",
+      "status": "Client Project",
+      "visual": "image",
+      "client": "Masabgroup",
+      "services": [
+        "Creative Direction",
+        "Web Design",
+        "Development"
+      ],
+      "summary": "From a client’s vision to a complete digital presence. Creative direction, color palette, and a website shaped around the business.",
+      "challenge": "Turn the client’s vision and requirements into a clear, distinctive website.",
+      "approach": "Start with the ambitions behind the business, then establish the creative direction, color theme, and structure of the experience.",
+      "solution": "A custom website that brings the agreed vision into a cohesive visual and digital experience.",
+      "image": "/images/masabgroup-website.jpg",
+      "imageAlt": "Public homepage of Masabgroup, a travel website with a green and gold visual direction",
+      "gallery": [],
+      "technologies": [],
+      "outcomes": [],
+      "url": "https://masabgroup.com/"
+    },
+    {
+      "slug": "baseerasworld",
+      "title": "Baseera’s World",
+      "industry": "Education",
+      "year": "",
+      "status": "Client Project",
+      "visual": "image",
+      "client": "Baseera’s World",
+      "services": [
+        "Creative Direction",
+        "Web Design",
+        "Development"
+      ],
+      "summary": "A vision translated into a considered website. An original design direction, a cohesive color theme, and a complete digital experience.",
+      "challenge": "Give the client’s ideas a clear visual language and a practical digital home.",
+      "approach": "Translate the client’s requirements and ambitions into a considered color palette, page structure, and overall design direction.",
+      "solution": "A website developed around the client’s vision, with design and color decisions brought together into one consistent experience.",
+      "image": "/images/baseerasworld-website.jpg",
+      "imageAlt": "Public homepage of Baseera’s World, an educational website with a blue and gold palette",
+      "gallery": [],
+      "technologies": [],
+      "outcomes": [],
+      "url": "https://baseerasworld.com/"
+    },
+    {
+      "slug": "aurelis-retreat",
+      "title": "Aurelis",
+      "industry": "Hospitality & Travel",
+      "year": "2026",
+      "status": "Concept Project",
+      "visual": "image",
+      "client": "",
+      "services": [
+        "Brand Strategy",
+        "Identity",
+        "Web Experience"
+      ],
+      "summary": "A quieter kind of luxury. An exploration of a considered digital presence for an independent mountain retreat.",
+      "challenge": "Explore how a boutique hospitality brand could express a sense of place and help guests move naturally from discovery to inquiry.",
+      "approach": "An editorial visual language, immersive photography, and a simple journey focused on the experience of staying.",
+      "solution": "A concept identity and digital direction combining warm typography, generous space, and a clear accommodation experience.",
+      "image": "/images/architecture.jpg",
+      "imageAlt": "Mountain architecture in warm evening light",
+      "gallery": [],
+      "technologies": [
+        "Next.js",
+        "TypeScript"
+      ],
+      "outcomes": [],
+      "url": ""
+    },
+    {
+      "slug": "forma-studio",
+      "title": "Forma",
+      "industry": "Professional Services",
+      "year": "2026",
+      "status": "Internal Exploration",
+      "visual": "image",
+      "client": "",
+      "services": [
+        "Creative Direction",
+        "Brand Identity",
+        "Digital Design"
+      ],
+      "summary": "Space for a new perspective. A brand and website exploration for a contemporary architecture practice.",
+      "challenge": "Create a visual direction that lets an architecture practice’s ideas and work speak with clarity.",
+      "approach": "A precise grid, deliberate typography, and a quiet palette that puts architectural details first.",
+      "solution": "An editorial identity and portfolio system designed to accommodate projects, perspectives, and a growing body of work.",
+      "image": "/images/forma.jpg",
+      "imageAlt": "Sculptural concrete portal and vertical walls in soft afternoon light",
+      "gallery": [],
+      "technologies": [],
+      "outcomes": [],
+      "url": ""
+    }
+  ],
+  "legal": {
+    "entity": "",
+    "jurisdiction": "",
+    "privacyContact": "",
+    "effectiveDate": "",
+    "privacyAdditional": "",
+    "termsAdditional": ""
+  }
+}
